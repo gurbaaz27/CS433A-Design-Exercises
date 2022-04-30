@@ -1,7 +1,9 @@
-# CS433A Design Assignments
+# CS433A Design Exercises
 
-## Team Members:
+Solutions of design exercises in CS433A: Parallel Programming, Spring Semester 2021-22 IIT Kanpur.
 
-- [Dipanshu Garg](https://github.com/dipanshu124) (190306)
-- [Gurbaaz Singh Nandra](https://github.com/gurbaaz27) (190349)
+## Team Details
+
+- [Dipanshu Garg](https://github.com/dipanshu124)
+- [Gurbaaz Singh Nandra](https://github.com/gurbaaz27)
 
